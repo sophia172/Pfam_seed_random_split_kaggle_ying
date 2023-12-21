@@ -1,5 +1,4 @@
-# Pfam_seed_random_split_kaggle_ying
-The detailed python notebook can be found [here]()
+The detailed python notebook can be found [here](https://github.com/sophia172/Pfam_seed_random_split_kaggle_ying/blob/main/Protein_Sequence_Classification.ipynb)
 # Problem Setup
 
 Classify sample of protein sequence to a domain family_accession label. Each sample is a protein sequence which has different length from about 20 to about 1900. There are nearly 18000 domain family_accession labels. 
